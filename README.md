@@ -1,4 +1,4 @@
-# flutter_dashboard_1
+# Stories App UI
 
 A new Flutter project.
 
